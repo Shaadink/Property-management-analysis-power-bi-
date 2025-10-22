@@ -1,5 +1,9 @@
 #  Property Management Business Intelligence Dashboard
 
+<p align="center">
+  <img src=""/>
+</p>
+
 ##  Project Overview
 This project presents a **comprehensive Business Intelligence (BI) dashboard** designed to analyze and optimize the performance of a **multi-national property management and sales operation**.  
 The dashboard offers insights into **financial performance, sales channels, geographical revenue, and client profiles**, helping decision-makers transition from reactive management to **data-driven strategic planning**.
