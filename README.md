@@ -1,7 +1,6 @@
 #         Property Management Business Intelligence Dashboard
-<p align="center">
-  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20pbi.png"/>
-</p>
+
+![Dashboard Preview]("https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20pbi.png")
 
 ##  Project Overview
 This project presents a **comprehensive Business Intelligence (BI) dashboard** designed to analyze and optimize the performance of a **multi-national property management and sales operation**.  
