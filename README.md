@@ -1,12 +1,12 @@
-# 🏙️ Property Management Business Intelligence Dashboard
+#  Property Management Business Intelligence Dashboard
 
-## 🚀 Project Overview
+##  Project Overview
 This project presents a **comprehensive Business Intelligence (BI) dashboard** designed to analyze and optimize the performance of a **multi-national property management and sales operation**.  
 The dashboard offers insights into **financial performance, sales channels, geographical revenue, and client profiles**, helping decision-makers transition from reactive management to **data-driven strategic planning**.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 The main objectives of this BI project were to:
 
 - **Maximize Revenue & Income:** Identify key drivers of revenue growth and profitability across properties.  
@@ -16,7 +16,7 @@ The main objectives of this BI project were to:
 
 ---
 
-## 💡 Problem Statement
+##  Problem Statement
 The property management firm lacked a clear, data-backed understanding of its global operations. Key challenges included:
 
 1. **Lack of Granularity:** Difficulty identifying which property types, channels, or locations contributed most to performance.  
@@ -27,7 +27,7 @@ This dashboard resolves these issues by providing actionable insights across sal
 
 ---
 
-## 💾 Dataset Information
+##  Dataset Information
 
 The analysis used a **consolidated dataset** with multiple interconnected tables to provide a complete view of the sales lifecycle.
 
@@ -37,13 +37,13 @@ The analysis used a **consolidated dataset** with multiple interconnected tables
 | `property_details`| Descriptive details for each managed property.                | `PropertyID`, `Country`, `Location`, `Type`, `Bedrooms`, `Bathrooms`, `SquareFootage`, `Price`, `Status`, `Img` |
 | `expense_data`    | Records of operational and property-specific costs.           | `ExpenseID`, `PropertyID`, `ExpenseType`, `Amount`, `Date` |
 | `client_data`     | Details of buyers, including their professions and profile images. | `ClientID`, `Name`, `Occupation`, `PropertiesSold`, `Img` |
-| `geography_data`  | Mapping of sales data to countries and regions.                | `Location`, `Country` |
+
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
-### 🔹 Performance Summary (2024 YTD vs. 2023)
+###  Performance Summary (2024 YTD vs. 2023)
 
 | Metric | 2023 Performance | 2024 YTD (Partial) | YTD Trend vs. 2023 |
 |--------|------------------|--------------------|--------------------|
@@ -56,12 +56,12 @@ The analysis used a **consolidated dataset** with multiple interconnected tables
 
 ---
 
-### 💰 Insights from 2024 YTD Performance
+###  Insights from 2024 YTD Performance
 
 - **Profitability:** Income at $17M on $26M revenue — strong cost control ($9M expenses).  
 - **Sales Volume:** 44 properties sold YTD, with a peak in **July ($6.1M)**.  
 
-#### 🏷️ Sales Channel & Product Focus
+####  Sales Channel & Product Focus
 - **Online** has become the top performer (**$9.5M**), surpassing **Broker** (**$8.9M**) for the first time.  
 - **Property Mix:**  
   - Condos: **29.41%**  
@@ -69,7 +69,7 @@ The analysis used a **consolidated dataset** with multiple interconnected tables
   - Apartments: **27.06%**  
   → Revenue is now more **diversified** across property types.
 
-#### 🌍 Geographical Performance
+####  Geographical Performance
 - **Top Markets (2024):**  
   - 🇮🇳 **India:** $5.1M  
   - 🇲🇽 **Mexico:** $4.2M  
@@ -77,7 +77,7 @@ The analysis used a **consolidated dataset** with multiple interconnected tables
 - Reflects a major **shift away** from 2023 leaders (Italy, Germany, Canada).  
 - **July** spike followed by August drop → continued sales volatility.
 
-#### 👥 Client Profiling
+####  Client Profiling
 - **Top Clients:**  
   - Emily Davis – Lawyer – **$5.20M**  
   - David Williams – Lawyer – **$4.50M**  
@@ -85,14 +85,14 @@ The analysis used a **consolidated dataset** with multiple interconnected tables
 
 ---
 
-### 🕵️ Insights from 2023 Performance
+###  Insights from 2023 Performance
 - **Total Income:** $30M on $41M revenue (expenses: $11M).  
 - **Property Leader:** Condos (41.18%).  
 - **Top Markets:** Italy ($7.0M), Germany ($5.6M), Canada ($5.6M).
 
 ---
 
-### 🧭 Insights from 2022 Baseline
+###  Insights from 2022 Baseline
 - **Total Income:** $20M on $30M revenue (expenses: $10M).  
 - **Property Leader:** Single Family (33.11%).  
 - **Top Markets:** Australia ($4.7M), Japan ($4.2M), France/Canada ($3.4M).
@@ -122,17 +122,15 @@ The analysis used a **consolidated dataset** with multiple interconnected tables
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Component | Tool / Language |
 |------------|----------------|
-| **Data Source** | CSV / SQL |
-| **Data Cleaning & Processing** | Python (Pandas, NumPy, Jupyter Notebook) |
-| **Visualization / Dashboard** | Power BI / Tableau |
+| **Data Source** | CSV |
+| **Data Cleaning & Processing** | Power Query |
+| **Visualization / Dashboard** | Power BI |
 | **Version Control** | Git & GitHub |
 | **Documentation** | Markdown (README) |
 
----
 
-## 📁 Project Structure
 
