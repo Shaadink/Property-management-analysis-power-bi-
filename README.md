@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20pbi.png" alt="Dashboard Preview" width="800"/>
+  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20dashboard.png"/>
 </p>
 
 
@@ -45,10 +45,6 @@ The analysis used a **consolidated dataset** with multiple interconnected tables
 | `property_details`| Descriptive details for each managed property.                | `PropertyID`, `Country`, `Location`, `Type`, `Bedrooms`, `Bathrooms`, `SquareFootage`, `Price`, `Status`, `Img` |
 | `expense_data`    | Records of operational and property-specific costs.           | `ExpenseID`, `PropertyID`, `ExpenseType`, `Amount`, `Date` |
 | `client_data`     | Details of buyers, including their professions and profile images. | `ClientID`, `Name`, `Occupation`, `PropertiesSold`, `Img` |
-
-<p align="center">
-  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20dashboard.png"/>
-</p>
 
 ---
 
