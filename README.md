@@ -99,25 +99,25 @@ The analysis used a **consolidated dataset** with multiple interconnected tables
 
 ---
 
-## 📈 Recommendations
+##  Recommendations
 
-### 1. 🔸 Strategic Pivot to Online
+### 1.  Strategic Pivot to Online
 - Prioritize the **Online sales channel**, as it has overtaken Brokers in revenue.
 - Increase **digital marketing**, **SEO**, and **user experience investments**.
 
-### 2. 🔸 Reallocate Geographical Resources
+### 2.  Reallocate Geographical Resources
 - Focus marketing and inventory in **India, Mexico, and Brazil**.
 - Investigate reasons behind decline in **Italy, Germany, and Canada** and apply recovery strategies.
 
-### 3. 🔸 Stabilize Sales Volatility
+### 3.  Stabilize Sales Volatility
 - Study **July peaks** and **August drops** historically.
 - Introduce **off-season campaigns** (e.g., in May) to balance sales distribution.
 
-### 4. 🔸 Maintain Client Focus
+### 4.  Maintain Client Focus
 - Continue targeting **Lawyer and other high-income professionals**.
 - Use referral programs or loyalty campaigns to increase engagement in this segment.
 
-### 5. 🔸 Diversify Property Inventory
+### 5.  Diversify Property Inventory
 - Since revenue is evenly spread across **Condo, Single Family, and Apartment**, maintain a balanced inventory strategy.
 
 ---
