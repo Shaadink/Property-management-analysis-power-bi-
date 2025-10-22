@@ -1,4 +1,7 @@
-#         Property Management Business Intelligence Dashboard
+<p align="center">
+  <h1 align="center">🏙️ Property Management Business Intelligence Dashboard</h1>
+  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20pbi.png"/>
+</p>
 
 <p align="center">
   <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20pbi.png" alt="Dashboard Preview" width="800"/>
