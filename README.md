@@ -4,10 +4,6 @@
   <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20pbi.png" alt="Dashboard Preview" width="800"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20dashboard.png"/>
-</p>
-
 
 ##  Project Overview
 This project presents a **comprehensive Business Intelligence (BI) dashboard** designed to analyze and optimize the performance of a **multi-national property management and sales operation**.  
@@ -47,6 +43,9 @@ The analysis used a **consolidated dataset** with multiple interconnected tables
 | `expense_data`    | Records of operational and property-specific costs.           | `ExpenseID`, `PropertyID`, `ExpenseType`, `Amount`, `Date` |
 | `client_data`     | Details of buyers, including their professions and profile images. | `ClientID`, `Name`, `Occupation`, `PropertiesSold`, `Img` |
 
+<p align="center">
+  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20dashboard.png"/>
+</p>
 
 ---
 
