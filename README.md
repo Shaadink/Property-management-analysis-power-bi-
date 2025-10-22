@@ -1,11 +1,12 @@
 <p align="center">
   <h1 align="center">🏙️ Property Management Business Intelligence Dashboard</h1>
-  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20pbi.png"/>
+  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20pbi.png" alt="Power BI Dashboard Cover" width="850"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20dashboard.png"/>
+  <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20dashboard.png" alt="Dashboard Preview" width="850"/>
 </p>
+
 
 
 ##  Project Overview
