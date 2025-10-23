@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🏙️ Property Management Business Intelligence Dashboard</h1>
+  <h1 align="center"> Property Management Business Intelligence Dashboard</h1>
   <img src="https://github.com/Shaadink/Property-management-analysis-power-bi-/blob/main/real%20estate%20pbi.png" alt="Power BI Dashboard Cover" width="850"/>
 </p>
 
